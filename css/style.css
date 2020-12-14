@@ -5,7 +5,7 @@ body {
 }
 .header {
     position: relative;
-    max-width: 1112px;
+    width: 1112px;
     margin: 150px auto;
     height: 610px;
     background: rgba(14, 14, 14, 0.9);
